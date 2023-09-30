@@ -1,2 +1,2 @@
 #!/bin/bash
-suido chmod hello betty
+suido chown hello betty
